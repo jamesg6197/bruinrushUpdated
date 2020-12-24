@@ -94,7 +94,7 @@ struct ClubReviewsView: View{
             VStack
             {
                 
-                List
+                List 
                 {
                     Section(header: Text("Metrics").font(.title).fontWeight(.bold).foregroundColor(.black))
                     {
